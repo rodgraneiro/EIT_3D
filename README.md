@@ -1,5 +1,6 @@
-# EIT_2D
+# EIT_3D
 
+ATUALIZAR README
 
 Este código, ainda em fase de desenvolvimento,  resolve o 'Problema Direto' e o 'Problema Inverso' para determinar a condutividade  $\sigma$ discretizada numa lalha de Elementos Finitos 2D, por meio da minimização pelo método 'Gauss-Newton' da equação: 
 
